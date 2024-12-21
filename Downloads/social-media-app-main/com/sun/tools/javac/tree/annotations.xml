@@ -1,0 +1,8 @@
+<root>
+    <item name='com.sun.tools.javac.tree.JCTree.JCDirective'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+    <item name='com.sun.tools.javac.tree.JCTree.JCImport'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
